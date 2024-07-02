@@ -20,7 +20,7 @@
           >
         {% endfor %}
       </nav>
-
+{#}
       <nav class="footer__meta | cluster" aria-label="{{ meta.navigation.ariaPlatforms }}">
         <!-- gets the first item from the feed loop set in meta -->
         <a href="{{ meta.blog.feedLinks[0].url }}" rel="alternate" type="{{ meta.blog.feedLinks[0].type }}">
@@ -28,6 +28,7 @@
           {% svg "misc/rss" %}
         </a>
 
+        
         {% for key, value in personal.platforms %}
           {% if value != "" %}
             <!-- regular platforms -->
@@ -36,18 +37,20 @@
               {% svg 'platform/' + key %}
             </a>
           {% endif %}
-        {% endfor %}
+        {% endfor %}#}
       </nav>
     </div>
 
+    {#}
     <!-- theme switch -->
-    {% include 'partials/theme-switch.njk' %}
+    {% include 'partials/theme-switch.njk' %}#}
 
+    {#}
     <aside class="creator">
       <a class="cluster" href="{{ meta.creator.website }}"
         >Made with <span class="visually-hidden">love</span> <span>{% svg "misc/heart" %}</span> by
         {{ meta.creator.name }}</a
       >
-    </aside>
+    </aside>#}
   </div>
 </footer>

@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-title: 'Eleventy Excellent'
+title: 'StoryTracker'
 description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
 layout: 'home'
 blog:
@@ -8,13 +8,25 @@ blog:
   intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
 
-## An Eleventy starter
+## StoryTracker
 
-Built around a CSS workflow that emphasizes guiding browser styling rather than micromanaging it. It incorporates progressive enhancement, fluid type and spacing, and utilizes modern CSS features for layout. The goal is to develop frontends that provide a great experience across all devices, connection speeds, and usage contexts.
+Transforming Reading Experiences in Secondary Schools
 
-**This is version 3.**
-I keep a [branch of v1](https://github.com/madrilene/eleventy-excellent/tree/v1) and [v2](https://github.com/madrilene/eleventy-excellent/tree/v2) because I have changed a lot of things.
-I have tried to [document](/get-started/#docs-lol) most features and methodologies.
+A good book has the power to inspire, educate, and transform young minds. 
+Our digital reading record is designed to make reading more engaging and organized for students while providing teachers with the tools they need to foster a love for literature.
 
-**Have fun** and let me know if you find any issues or have ideas for improvements!
+### Why StoryTracker?
+
+#### Effortless Book Logging
+Say goodbye to paper logs and hello to a seamless digital experience. With StoryTracker, students can easily log the books they are reading, track their progress, and reflect on their literary journey.
+
+#### Personalized Recommendations
+Not sure what to read next? StoryTracker analyzes students’ reading habits and preferences to suggest the perfect next book, making sure every reading experience is exciting and tailored to their tastes.
+
+#### Insightful Analytics
+Teachers, get a comprehensive view of your students' reading habits. Monitor progress, identify trends, and celebrate achievements with our intuitive dashboard.
+
+#### Encourages Reading Engagement
+With interactive features and personalized insights, StoryTracker keeps students motivated and curious, turning reading into an adventure they’ll love to embark on.
+
 
