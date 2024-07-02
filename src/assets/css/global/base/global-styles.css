@@ -78,12 +78,12 @@ textarea {
   caret-color: var(--color-primary);
 }
 
-/* SVG */
+/* SVG */ /*
 svg {
   block-size: 2ex;
   inline-size: auto;
   flex: none;
-}
+}*/
 
 /* Text styling */
 b,
