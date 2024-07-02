@@ -1,16 +1,20 @@
 export default {
   top: [
     {
-      text: 'About',
-      url: '/about/'
+      text: 'Explore',
+      url: '/explore/'
+    },
+    {
+      text: 'Demo',
+      url: '/demo/'
     },
     {
       text: 'Testimonials',
       url: '/testimonials/'
     },
     {
-      text: 'Get started',
-      url: '/get-started/'
+      text: 'Subscribe',
+      url: '/subscribe/'
     }
   ],
   bottom: [
