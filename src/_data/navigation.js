@@ -4,10 +4,10 @@ export default {
       text: 'Explore',
       url: '/explore/'
     },
-    {
+    /*{
       text: 'Demo',
       url: '/demo/'
-    },
+    },*/
     {
       text: 'Testimonials',
       url: '/testimonials/'

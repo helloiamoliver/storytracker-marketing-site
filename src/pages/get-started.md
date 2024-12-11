@@ -5,14 +5,16 @@ description: 'Eleventy Excellent is inspired bythe companion website of Andy Bel
 layout: page
 ---
 
-StoryTracker isn't ready for launch yet! It's almost there though! 
+StoryTracker is ready to join your school! It's still a new product, so please bear with me while I iron out some of the bugs.
 
 If you're interested, please [contact me](https://oliverhewitt.co.uk/contact/) to express interest!
 
-I'd also love to know how you'd prefer to pay for it:
+Currently, I'm offering two options for how to pay for it. Please consider which of the following would work best for you:
 
-1. A lifetime license, where you then host it on your own server/infrastructure.
-2. A yearly subscription, where the hosting is then managed by me (though bear in mind I'm still at school, so there won't be instantaneous support!)
+1. A lifetime license, where you then host it on your own server/infrastructure. Bear in mind the amount of support I can offer with this option will be limited!
+2. A yearly subscription, where the hosting is then managed by me.
 
 
-Please feel free to get in touch!
+Looking forward to hearing from you!
+
+- Oliver

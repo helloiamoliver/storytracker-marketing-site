@@ -10,23 +10,25 @@ blog:
 
 ## StoryTracker
 
-Transforming Reading Experiences in Secondary Schools
+Helping children read more at schools!
 
 A good book has the power to inspire, educate, and transform young minds. 
-Our digital reading record is designed to make reading more engaging and organized for students while providing teachers with the tools they need to foster a love for literature.
+The National Literacy Trust recently published their yearly report into how young people read. This showed that, in the last year alone, the number of young people who say that they read for pleasure has declined by 8.8%. 
+Getting children reading is so important, but sometimes it can be easier said than done!
+StoryTracker is a digital reading record, designed to make reading more engaging and organised for students while providing teachers with the tools they need to foster a love for literature.
 
 ### Why StoryTracker?
 
-#### Effortless Book Logging
-Say goodbye to paper logs and hello to a seamless digital experience. With StoryTracker, students can easily log the books they are reading, track their progress, and reflect on their literary journey.
+#### Quick & Easy Book Logging
+Say goodbye to paper logs and hello to a seamless digital experience. 
+With StoryTracker, students can easily log the books they are reading, track their progress, and reflect on their literary journey.
 
 #### Personalized Recommendations
-Not sure what to read next? StoryTracker analyzes students’ reading habits and preferences to suggest the perfect next book, making sure every reading experience is exciting and tailored to their tastes.
+Not sure what to read next? 
+StoryTracker analyzes students’ reading habits and preferences to suggest the perfect next book, making sure every reading experience is exciting and tailored to their tastes.
 
-#### Insightful Analytics
-Teachers, get a comprehensive view of your students' reading habits. Monitor progress, identify trends, and celebrate achievements with our intuitive dashboard.
 
 #### Encourages Reading Engagement
-With interactive features and personalized insights, StoryTracker keeps students motivated and curious, turning reading into an adventure they’ll love to embark on.
+With interactive features and personalized insights, StoryTracker keeps students motivated and curious, turning reading into an adventure they’ll love to embark on. Once they get on the class leaderboard, there's no stopping them!
 
 
